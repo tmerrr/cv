@@ -40,7 +40,7 @@ Whilst my role required me to recruit a variety of skill-sets across the SDLC, s
 
 ###### My responsibilites:
 * Meeting with clients to fully understand their projects and technical requirements.
-* Worked with a well known ecommerce company to build a team, to help them move from Waterfall to Agile and to rebuild their core web applications with more current technologies.
+* Worked with a well-known ecommerce company to build a new software development team, in order for them to move from Waterfall to Agile and to rebuild their core web applications with more current technologies.
 * Present new opportunities to candidates which meets their requirements and mateches their technical skills and experience.
 * Expand client base by regularly speaking with new companies and discussing upcoming or ongoing development projects.
 * Obtain market feedback regarding the latest, in-demand technologies and methods in order to keep clients updated and sometimes advise them if they're not keeping their development environment up-to-date.

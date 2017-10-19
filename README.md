@@ -11,14 +11,16 @@ Possess a strong work-ethic and a genuine enthusiasm  to continue to learn. I am
 ###### Objective:
 While there are many interesting opportunities across a wide-variety of industries, my main objective is to join a modern technology company who specialise in high traffic and high transactional systems, such as JustGiving, Just Eat, ASOS etc.
 
+#### Career History:
+###### 
 
 
 #### Education
-###### Uckfield Community Technology College							2001 - 2008
-###### A-Levels															2006 - 2008
+###### Uckfield Community Technology College                              2001 - 2008
+###### A-Levels                                                           2006 - 2008
 BTEC, Software Engineering
 Maths
 Business Studies
 
-###### GCSE's 															2001  2006
+###### GCSE's                                                             2001 - 2006
 9 GCSE's, including Maths, Science and English

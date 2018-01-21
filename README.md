@@ -65,3 +65,13 @@ Whilst my role required me to recruit a variety of skill-sets across the SDLC, s
 
 ###### GCSE's 											              2001 - 2006
 * 9 GCSE's, including Maths, Science and English
+
+#### Interests
+###### Sports:
+* Member of a squash club and play twice a week.
+* Enjoy watching a number of sports and sporting events, particular interest in Football, Rugby, Tennis and F1.
+* Became a big fan of playing table-tennis throughout my time with Makers Academy!
+
+###### Music:
+* Enjoy listening to a wide variety of rock-based music. A sucker for anything with a catchy guitar rift!
+* Have enjoyed seeing bands such as Muse, Royal Blood and Biffy Clyro live, and I'm hoping to see Arctic Monkeys at some point this year.

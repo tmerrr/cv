@@ -59,9 +59,9 @@ Whilst my role required me to recruit a variety of skill-sets across the SDLC, s
 #### Education
 ##### Uckfield Community Technology College			2001 - 2008
 ###### A-Levels											              2006 - 2008
-BTEC, Software Engineering
-Maths
-Business Studies
+* BTEC, Software Engineering
+* Maths
+* Business Studies
 
 ###### GCSE's 											              2001 - 2006
-9 GCSE's, including Maths, Science and English
+* 9 GCSE's, including Maths, Science and English

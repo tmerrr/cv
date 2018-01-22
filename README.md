@@ -7,6 +7,7 @@
   <th> [Career History](#career-history)  </th>
   <th> [Education](#education)            </th>
   <th> [Interests](#interests)            </th>
+  <th> <a href="#interests">Interests</a> </th>
 </table>
 
 ### Profile

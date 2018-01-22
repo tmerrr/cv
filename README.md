@@ -56,17 +56,17 @@ Whilst my role required me to recruit a variety of skill-sets across the SDLC, s
 * Obtain market feedback regarding the latest, in-demand technologies and methods in order to keep clients updated and sometimes advise them if they're not keeping their development environment up-to-date.
 
 
-#### Education
-##### Uckfield Community Technology College			2001 - 2008
-###### A-Levels											              2006 - 2008
+### Education
+#### Uckfield Community Technology College			2001 - 2008
+##### A-Levels											              2006 - 2008
 * BTEC, Software Engineering
 * Maths
 * Business Studies
 
-###### GCSE's 											              2001 - 2006
+##### GCSE's 											              2001 - 2006
 * 9 GCSE's, including Maths, Science and English
 
-#### Interests
+### Interests
 ###### Sports:
 * Member of a squash club and play twice a week.
 * Enjoy watching a number of sports and sporting events, particular interest in Football, Rugby, Tennis and F1.

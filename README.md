@@ -3,11 +3,10 @@
 
 ### Contents
 <table>
-  <th> [Profile](#profile)                </th>
-  <th> [Career History](#career-history)  </th>
-  <th> [Education](#education)            </th>
-  <th> [Interests](#interests)            </th>
-  <th> <a href="#interests">Interests</a> </th>
+  <th> <a href="#profile">        Profile       </a> </th>
+  <th> <a href="#career-history"> Career History</a> </th>
+  <th> <a href="#education">      Education     </a> </th>
+  <th> <a href="#interests">      Interests     </a> </th>
 </table>
 
 ### Profile

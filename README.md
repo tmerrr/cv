@@ -85,4 +85,4 @@ Whilst my role required me to recruit a variety of skill-sets across the SDLC, s
 * Have enjoyed seeing bands such as Muse, Royal Blood and Biffy Clyro live, and I'm hoping to see Arctic Monkeys at some point this year.
 
 
-<div style="text-align: center;"><a href="#tom-moir"> Back to Top </a></div>
+<div align=center><a href="#tom-moir"> Back to Top </a></div>

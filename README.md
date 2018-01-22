@@ -1,6 +1,14 @@
 # Tom Moir
 ## Curriculum Vitae
 
+### Contents
+<table>
+  <th> [Profile](#profile)                </th>
+  <th> [Career History](#career-history)  </th>
+  <th> [Education](#education)            </th>
+  <th> [Interests](#interests)            </th>
+</table>
+
 ### Profile
 I have recently completed a training course by Makers Academy, in order to change careers and pursue my real passion for technology by becoming a Software Developer. Previously, I was working as an IT Recruiter for over 6 years, primarily specialising in hiring Software Development professionals.  This was my chosen industry as I've always had a keen interest in technology - software development in particular - even going back to my school days when I completed a Software Engineering course during Sixth Form.
 
@@ -75,3 +83,6 @@ Whilst my role required me to recruit a variety of skill-sets across the SDLC, s
 ###### Music:
 * Enjoy listening to a wide variety of rock-based music. A sucker for anything with a catchy guitar rift!
 * Have enjoyed seeing bands such as Muse, Royal Blood and Biffy Clyro live, and I'm hoping to see Arctic Monkeys at some point this year.
+
+
+<p align=center> [Back to Top](#tom-moir) </p>

@@ -1,23 +1,42 @@
-# Tom Moir
-## Curriculum Vitae
+<h1 align=center> Tom Moir </h1>
+<h2 align=center> Curriculum Vitae </h2>
 
-### Contents
-<table>
-  <th> <a href="#profile">        Profile       </a> </th>
-  <th> <a href="#career-history"> Career History</a> </th>
-  <th> <a href="#education">      Education     </a> </th>
-  <th> <a href="#interests">      Interests     </a> </th>
-</table>
+<h3 align=center> Contents </h3>
+<div align=center>
+  <table>
+    <th> <a href="#profile">        Profile       </a> </th>
+    <th> <a href="#career-history"> Career History</a> </th>
+    <th> <a href="#education">      Education     </a> </th>
+    <th> <a href="#interests">      Interests     </a> </th>
+  </table>
+</div>
 
 ### Profile
-I have recently completed a training course by Makers Academy, in order to change careers and pursue my real passion for technology by becoming a Software Developer. Previously, I was working as an IT Recruiter for over 6 years, primarily specialising in hiring Software Development professionals.  This was my chosen industry as I've always had a keen interest in technology - software development in particular - even going back to my school days when I completed a Software Engineering course during Sixth Form.
-
-I am a hard-working individual who possesses a strong work-ethic and a genuine enthusiasm to continue to learn. I am a pragmatic and analytical thinker, who relishes problem-solving and the challenges they provide. This is why I feel my mindset is suited to Software Development and why I get so much enjoyment from coding.
+<p>
+  I have recently completed a training course by Makers Academy, in order to change careers and pursue my real passion for technology by becoming a Software Developer. Previously, I was working as an IT Recruiter for over 6 years, primarily specialising in hiring Software Development professionals.  This was my chosen industry as I've always had a keen interest in technology - software development in particular - even going back to my school days when I completed a Software Engineering course during Sixth Form.
+</p>
+<p>
+  I am a hard-working individual who possesses a strong work-ethic and a genuine enthusiasm to continue to learn. I am a pragmatic and analytical thinker, who relishes problem-solving and the challenges they provide. This is why I feel my mindset is suited to Software Development and why I get so much enjoyment from coding.
+</p>
 
 ### Career History:
-#### Makers Academy 									Sept 2017 - Jan 2018
+<div style="display: inline-flex; width: 100%">
+  <div style="width: 50%;">
+    <h4 style="margin: 0; margin-top: 0.5em;">
+      Makers Academy
+    </h4>
+  </div>
+  <div style="width: 50%; text-align: right;">
+    <h4 style="margin: 0; margin-top: 0.5em;">
+      Sept 2017 - Jan 2018
+    </h4>
+  </div>
+</div>
+
 #### Software Developer in Training
-Makers Academy are Europe's leading Web Development bootcamp. I have recently completed a 16 week course - consisting of 4 weeks of remote pre-course material followed by 12 weeks of on-site, intensive training - in order to retrain and pursue a career as a Full-Stack Software Developer.
+<p>
+  Makers Academy are Europe's leading Web Development bootcamp. I have recently completed a 16 week course - consisting of 4 weeks of remote pre-course material followed by 12 weeks of on-site, intensive training - in order to retrain and pursue a career as a Full-Stack Software Developer.
+</p>
 
 ##### Key Content / Skills:
 * Self-learning - The primary skill Makers teach, is how to teach yourself new technologies. This is so that students are comfortable in learning a new technology and can do so quickly, when moving into a commercial environment.
@@ -37,9 +56,21 @@ Link: https://github.com/tmerrr/map-app
 - https://github.com/RobertClayton/YelpApp
 
 ###### Technologies & Skills:
-Agile, TDD, JavaScript (Vanilla, React, Node, some jQuery), Ruby, Rails, Jasmine, Enzyme, Mocha, Chai, Sinon, RSpec, HTML5, CSS3.
+Agile, TDD, JavaScript (Vanilla, React, Node, some jQuery), Ruby, Rails, Jasmine, Enzyme, Mocha, Chai, Sinon, RSpec, HTML5, CSS3.						
 
-#### RBW Consulting									Jan 2017 - June 2017
+<div style="display: inline-flex; width: 100%">
+  <div style="width: 50%;">
+    <h4 style="margin: 0; margin-top: 0.5em;">
+      RBW Consulting
+    </h4>
+  </div>
+  <div style="width: 50%; text-align: right;">
+    <h4 style="margin: 0; margin-top: 0.5em;">
+      Jan 2017 - June 2017
+    </h4>
+  </div>
+</div>
+
 #### IT Recruitment Consultant
 RBW Consulting are a well established recruitment consultancy, with teams specialising in the Pharmaceutical and IT industries.  I was brought into the IT Recruitment team to focus purely on Software Developers, predominantly JavaScript experts.
 
@@ -49,8 +80,19 @@ RBW Consulting are a well established recruitment consultancy, with teams specia
 * Build relationships with new, potential clients.
 * Stay abreast of new technologies and development trends.
 
+<div style="display: inline-flex; width: 100%">
+  <div style="width: 50%;">
+    <h4 style="margin: 0; margin-top: 0.5em;">
+      Vantage Recruitment Solutions
+    </h4>
+  </div>
+  <div style="width: 50%; text-align: right;">
+    <h4 style="margin: 0; margin-top: 0.5em;">
+      March 2011 - Nov 2016
+    </h4>
+  </div>
+</div>
 
-#### Vantage Recruitment Solutions					March 2011 - Nov 2016
 #### Senior IT Recruitment Consultant
 Vantage Recruitment Solutions are a boutique recruitment agency, specialising solely in the IT market. I started as a Junior IT Recruiter / Resourcer as one of the first members of the team in 2011. For the next 2 years, my role was to source candidates across the full Software Development Lifecycle (SDLC) and to work closely with a number of long-term clients.  As the company began to grow, I took on the responsibilities of a Senior IT Recruitment Consultant by building my own client base, meeting clients face-to-face to further understand their culture and working environments, and to assist new members of the team when needed.
 
@@ -65,13 +107,49 @@ Whilst my role required me to recruit a variety of skill-sets across the SDLC, s
 
 
 ### Education
-#### Uckfield Community Technology College			2001 - 2008
-##### A-Levels											              2006 - 2008
+<div style="display: inline-flex; width: 100%">
+  <div style="width: 50%;">
+    <h4 style="margin: 0; margin-top: 0.5em;">
+      Uckfield Community Technology College
+    </h4>
+  </div>
+  <div style="width: 50%; text-align: right;">
+    <h4 style="margin: 0; margin-top: 0.5em;">
+      2001 - 2008
+    </h4>
+  </div>
+</div>									              
+
+<div style="display: inline-flex; width: 100%">
+  <div style="width: 50%;">
+    <h5 style="margin: 0; margin-top: 0.5em;">
+      A-Levels
+    </h5>
+  </div>
+  <div style="width: 50%; text-align: right;">
+    <h5 style="margin: 0; margin-top: 0.5em;">
+      2006 - 2008
+    </h5>
+  </div>
+</div>
+
 * BTEC, Software Engineering
 * Maths
 * Business Studies
 
-##### GCSE's 											              2001 - 2006
+<div style="display: inline-flex; width: 100%">
+  <div style="width: 50%;">
+    <h5 style="margin: 0; margin-top: 0.5em;">
+      GCSE's
+    </h5>
+  </div>
+  <div style="width: 50%; text-align: right;">
+    <h5 style="margin: 0; margin-top: 0.5em;">
+      2001 - 2006
+    </h5>
+  </div>
+</div>
+
 * 9 GCSE's, including Maths, Science and English
 
 ### Interests
@@ -85,4 +163,4 @@ Whilst my role required me to recruit a variety of skill-sets across the SDLC, s
 * Have enjoyed seeing bands such as Muse, Royal Blood and Biffy Clyro live, and I'm hoping to see Arctic Monkeys at some point this year.
 
 
-[Back to Top](#tom-moir)
+<a href="#tom-moir"> <p align=center> Back to Top </p> </a>

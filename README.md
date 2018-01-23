@@ -36,7 +36,7 @@ Link: https://github.com/tmerrr/memomap
 
 ###### Other Group Projects:
 - https://github.com/tmerrr/react-shop
-- https://github.com/RobertClayton/YelpApp
+- https://github.com/tmerrr/YelpApp
 
 ###### Technologies & Skills:
 Agile, TDD, JavaScript (Vanilla, React, Node, some jQuery), Ruby, Rails, Jasmine, Enzyme, Mocha, Chai, Sinon, RSpec, HTML5, CSS3.

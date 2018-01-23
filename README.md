@@ -1,6 +1,8 @@
 # Tom Moir
 ## Curriculum Vitae
 
+GitHub Profile - https://github.com/tmerrr
+
 ### Contents
 <table>
   <th> <a href="#profile">        Profile       </a> </th>
@@ -30,7 +32,7 @@ The Final Project is completed over 2 weeks as part of a team. My team and I del
 
 This was a Full-Stack JavaScript application, built using the MERN stack (MongoDB, Express, React, Node). Throughout the 2 weeks, we ensured we rotated pairs and responsibilities so that everyone had the opportunity to work on both front-end and backend features.
 
-Link: https://github.com/tmerrr/map-app
+Link: https://github.com/tmerrr/memomap
 
 ###### Other Group Projects:
 - https://github.com/tmerrr/react-shop
